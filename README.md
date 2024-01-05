@@ -9,3 +9,4 @@ Práctica 1: Python for Business
 5. Andrea Acero
 6. Camila Quilcate
 7. Brigitte Gamboa 
+8. Andrés Callo
