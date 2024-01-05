@@ -22,3 +22,12 @@ Práctica 1: Python for Business
 2. Zayn
 3. Danny Ocean
 4. Shakira
+
+## Schools
+1. Saleciano
+2. Trilce
+3. Talentos
+4. Claretiano
+5. Diez de Octubre
+6. Santa Maria de la Providencia
+7. Primer Colegio Nacional de Nuestra Señora de Guadalupe
