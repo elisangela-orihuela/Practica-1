@@ -7,3 +7,4 @@ Práctica 1: Python for Business
 3. Adherly Perez
 4. Joe Calderon
 5. Andrea Acero
+6. Camila Quilcate
