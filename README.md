@@ -16,3 +16,9 @@ Práctica 1: Python for Business
 2. Wonka
 3. Avatar
 4. Star
+
+## Artistas
+1. Adele
+2. Zayn
+3. Danny Ocean
+4. Shakira
